@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Where can we find the best coffee in the world?
+*[Jorge Gonzalez Gonzalez]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics Full Time & 27/11/2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,25 +14,31 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+I analyse the coffee ratings from 32 countries based on certain coffee metrics used for professional evaluation. 
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+I have formulate two hypotheses:
+- Is the coffee from Ethiopia the best rated?
+- Does altitude has an impact in the coffee quality?
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+I gathered data from the Coffee Quality Institute.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+I first categorize the coffee by species and varieties and analyse the ratings. We end up evaluating the coffee based of its country of origen.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+I used trello for organizing my project.
 
 What does your repository look like? Explain your folder and file structure.
-
+Folders structure:
+- Data
+- Report
+- Code (I have included gitignore file)
+ 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/Jyu-as)  
+[Slides](https://docs.google.com/presentation/d/10nYLmXzwKPcf8xVfBgN13jgvxxGzEbgq5dKJvggThlk/edit#slide=id.p)  
+[Trello](https://trello.com/b/OM2GCrja/project4-coffee-ratings)  
