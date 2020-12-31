@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Where can we find the best coffee in the world?
-*[Jorge Gonzalez Gonzalez]*
+*[Jorge González González]*
 
 *[Data Analytics Full Time & 27/11/2020]*
 
